@@ -5,4 +5,14 @@ body {
 
 .fruit {
   color: blue;
+  float: left;
+  width: 300px;
+  height: 400px;
+  padding: 20px;
+  margin: 60px;
+}
+
+.fruit img {
+  width: 300px;
+  height: 400px;
 }
