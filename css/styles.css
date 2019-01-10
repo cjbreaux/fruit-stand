@@ -2,3 +2,7 @@ body {
   background-image: url(../img/whitetexture.jpg);
   background-size: cover;
 }
+
+.fruit {
+  color: blue;
+}
